@@ -1,0 +1,2 @@
+# LBTableViewCell
+原生UITableViewCell更改其image、textLabel、detailTextLabel的属性时候不能达到其预想效果，而LBTableViewCell就是为了解决即使更改原生的属性image、textLabel、detailTextLabel也能达到预定效果。
